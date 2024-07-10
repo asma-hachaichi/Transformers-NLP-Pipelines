@@ -27,7 +27,7 @@ Each feature is accessible through a user-friendly interface with dedicated page
 
 2. **Run the main application**:
    ```sh
-   streamlit run main.py
+   streamlit run app.py
    ```
 
 ## Requirements
